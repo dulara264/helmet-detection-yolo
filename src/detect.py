@@ -53,4 +53,4 @@ for m in motorcycles:
 os.makedirs("outputs", exist_ok=True)
 cv2.imwrite("outputs/result.jpg", img)
 
-print("Helmet detection completed. Check outputs/result.jpg")
+print("Detection completed. Check outputs/result.jpg")
