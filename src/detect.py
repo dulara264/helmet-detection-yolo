@@ -1,3 +1,6 @@
+# Helmet Detection for Motorcycle Riders
+# Uses YOLOv8 for object detection and rule-based logic for helmet violation detection
+
 from ultralytics import YOLO
 import cv2
 import os
