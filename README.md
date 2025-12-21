@@ -39,3 +39,11 @@ The output image with detection results is saved as:
 - This project focuses on logic and system design rather than custom model training
 
 
+## 🖼️ Sample Results
+
+### Helmet On
+![Helmet On](screenshots/helmet_on.png)
+
+### No Helmet (Violation)
+![No Helmet](screenshots/no_helmet.png)
+
