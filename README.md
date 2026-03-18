@@ -14,15 +14,6 @@ This project detects motorcycle riders and identifies whether they are wearing a
 - OpenCV
 - NumPy
 
-## Project Structure
-├── data/
-│ └── images/
-├── src/
-│ └── detect.py
-├── outputs/
-├── requirements.txt
-└── README.md
-
 ## How to Run
 1. Create and activate a virtual environment
 2. Install dependencies:
@@ -39,7 +30,7 @@ The output image with detection results is saved as:
 - This project focuses on logic and system design rather than custom model training
 
 
-## 🖼️ Sample Results
+##  Sample Results
 
 ### Helmet On
 ![Helmet On](screenshots/helmet_on.png)
